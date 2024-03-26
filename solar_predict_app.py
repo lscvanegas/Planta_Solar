@@ -11,7 +11,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.models import Sequential
 
 
-#from streamlit.hashing import _CodeHasher
+from streamlit.hashing import _CodeHasher
 
 try:
     # Before Streamlit 0.65
