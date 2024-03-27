@@ -1,6 +1,6 @@
 keras==2.8.0
 matplotlib==3.8.3
-numpy==1.19.0
+numpy==1.20.0
 openpyxl==3.1.2
 pandas==2.1.4
 seaborn==0.13.0
